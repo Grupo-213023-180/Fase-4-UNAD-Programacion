@@ -12,4 +12,4 @@ Sistema desarrollado en Python aplicando Programación Orientada a Objetos.
 
 ## Integrantes
 - Jeniffer Katherine Calvera Villarreal
-- Claudia Alejandra Idrobo Montrañez
+- Claudia Alejandra Idrobo Montañez
