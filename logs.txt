@@ -1,0 +1,13 @@
+Cliente válido creado
+Nombre inválido
+Servicio sala creado
+Reserva confirmada
+Duración inválida
+Reserva cancelada
+Cliente válido creado
+Nombre inválido
+Servicio sala creado
+Reserva confirmada
+Duración inválida
+Reserva cancelada
+Cliente creado
